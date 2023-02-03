@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T10:52:07.278Z" agent="5.0 (Windows)" etag="ioikhTcEEazjfCLL6aiK" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T10:55:01.006Z" agent="5.0 (Windows)" etag="YA9ye3ZYL9N8gGiyQKoc" version="20.8.16" type="github">
   <diagram name="Seite-1" id="aPtr6aCTntGhLZ0cT5wC">
     <mxGraphModel dx="929" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F2YXWnNkTK1Ht0D_ssI6-1" value="Block" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="680" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="F2YXWnNkTK1Ht0D_ssI6-1" value="Blockchain" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F2YXWnNkTK1Ht0D_ssI6-2" value="Annahmestelle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2YXWnNkTK1Ht0D_ssI6-3" value="Paket" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2YXWnNkTK1Ht0D_ssI6-4" value="Empfänger" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="160" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
